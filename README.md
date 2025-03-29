@@ -1,7 +1,7 @@
 **أدوات فزعة | FAZ3A CC Tools**  
 📢 الدعم الفني: [@FAZ3ATEAMJO](https://t.me/FAZ3ATEAMJO)  
 [FAZ3A GPT](https://chatgpt.com/g/g-M1hLcKcUv-faz3a-gpt) 
-💳 فاحص البطاقات | SQURE GETAWAY  
+💳 فحص البطاقات | SQURE GETAWAY  
 _____________________________________________________________
 ![GitHub](https://img.shields.io/badge/Version-2.1.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green)
